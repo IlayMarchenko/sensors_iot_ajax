@@ -4,7 +4,7 @@
 
 ## The main idea  ✨
 
-**This challenge oriented to work with sensors on the “Sensors BoosterPack” (BME280, BMI160, BMM150, OPT3001 Ambient Light Sensor) and TI LaunchPad CC1352R1.**
+**This challenge is oriented to work with sensors on the “Sensors BoosterPack” (BME280, BMI160, BMM150, OPT3001 Ambient Light Sensor) and TI LaunchPad CC1352R1.**
 
 ## Content
 
