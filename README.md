@@ -1,6 +1,6 @@
 # Sensors :metal:
 
-**Hello everyone! This is my second challenge in course form Ucode IT Academy featuring Ajax Systems.** 
+**Hello everyone! This is my second challenge in course from Ucode IT Academy featuring Ajax Systems.** 
 
 ## The main idea  ✨
 
